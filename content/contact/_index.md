@@ -1,6 +1,6 @@
 +++
 title = "Contact"
-type = "contact"
+type = "about"
 netlify = false
 emailservice = "formspree.io/example@email.com"
 contactname = "Your name"
@@ -10,3 +10,6 @@ contactmessage = "Your Message"
 contactlang = "en"
 contactanswertime = 24
 +++
+
+
+안녕하세요

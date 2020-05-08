@@ -1,12 +1,13 @@
 +++
-title = "About Hugo"
-date = "2014-04-09"
+title = "About"
+date = "2020-05-08"
 +++
 
-Hugo is a static site engine written in Go.
+![not_About](/img/2020/05/cat3.jpg)
 
+이 블로그는 [**Hugo**](http://gohugo.io/)로 만들었습니다.
 
-It makes use of a variety of open source projects including:
+사용한 Theme에 관련된 내용은 다음과 같습니다.
 
 * [Cobra](https://github.com/spf13/cobra)
 * [Viper](https://github.com/spf13/viper)
@@ -15,15 +16,16 @@ It makes use of a variety of open source projects including:
 
 Learn more and contribute on [GitHub](https://github.com/spf13).
 
-## Setup
+## Gustv
 
-Some fun facts about [Hugo](http://gohugo.io/):
+> 블로그 주인장입니다. 2020년산 초보 웹 개발자입니다.     
+> 사용하는 언어는 Java, JavaScript 입니다.
 
-* Built in [Go](http://golang.org/)
-* Loosely inspired by [Jekyll](http://jekyllrb.com/)
-* Primarily developed by [spf13](http://spf13.com/) on the train while commuting to and from Manhattan.
-* Coded in [Vim](http://vim.org) using [spf13-vim](http://vim.spf13.com/)
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/spf13/hugo/issues/new) or [ask me on Twitter](https://twitter.com/spf13).
 
-Thanks for reading!
+### 연락처
+
+**GitHub** : Gustv1126    
+
+**Email** : Example@email.com    
+
